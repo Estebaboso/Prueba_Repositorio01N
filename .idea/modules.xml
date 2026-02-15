@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Calculadora.java/Calculadora.java.iml" filepath="$PROJECT_DIR$/Calculadora.java/Calculadora.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Prueba_Repositorio01N.iml" filepath="$PROJECT_DIR$/.idea/Prueba_Repositorio01N.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Prueba_Repositorio01N.iml" filepath="$PROJECT_DIR$/.idea/Prueba_Repositorio01N.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calcularOp/calcularOp.iml" filepath="$PROJECT_DIR$/calcularOp/calcularOp.iml" />
+>>>>>>> origin/dev_KenierRocha
     </modules>
   </component>
 </project>
